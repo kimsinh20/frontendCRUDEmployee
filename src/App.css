@@ -1,6 +1,4 @@
-.App {
-  text-align: center;
-}
+
 
 .App-logo {
   height: 40vmin;
@@ -35,4 +33,15 @@
   to {
     transform: rotate(360deg);
   }
+}
+th {
+  width: 100px;
+  text-align: center;
+}
+td {
+  width: 100px;
+  text-align: center;
+}
+.update {
+  margin-left: 20px;
 }
